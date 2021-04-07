@@ -1,0 +1,132 @@
+.main{
+    padding: 40px 0 0 140px;
+    border:1px solid #e3f2fd;
+}
+
+.tabList{
+    display: flex;
+}
+
+.main h1{
+    margin: 0;
+}
+
+.main .mainName{
+    display: inline-block;
+}
+.main .mainName .name{
+    font-size: xxx-large;
+    margin: 0;
+}
+
+.tabList{
+    float: right;
+    margin: 5px 0;
+}
+
+.tab1{
+    background-color: #8AC441;
+    width: 170px;
+    margin: 0 20px 0 0;
+    border-radius: 10px;
+    height: inherit;
+}
+
+.tab2{
+    background-color: #01A8F6;
+    width: 170px;
+    margin: 0 20px 0 0;
+    border-radius: 10px;
+    height: inherit;
+}
+
+.tab3{
+    background-color: #FF9800;
+    width: 170px;
+    margin: 0 20px 0 0;
+    border-radius: 10px;
+    height: inherit;
+}
+
+.tab4{
+    background-color: #9D1DB1;
+    width: 170px;
+    margin: 0 20px 0 0;
+    border-radius: 10px;
+    height: inherit;
+}
+
+.hrLine {
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 0 8px 10px 8px;
+}
+
+.tabList P{
+    color: white;
+    margin: 0 0 5px 8px;
+}
+
+.tabIcon1 {
+    margin: 10px 0 0 10px;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #96CA54;
+}
+
+.tabIcon2 {
+    margin: 10px 0 0 10px;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #1BB1F7;
+}
+
+.tabIcon3 {
+    margin: 10px 0 0 10px;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #FFA21A;
+}
+
+.tabIcon4 {
+    margin: 10px 0 0 10px;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #A734B9;
+}
+
+.mainNotification{
+    display: flex;
+    margin: 20px 20px 20px 0;
+}
+
+.taskIcon{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #ECECED;
+    margin: 4px 10px 4px 0;
+}
+
+.messageIcon{
+    border-radius: 20%;
+    padding: 4px;
+    background-color: #ECECED;
+    margin: 4px 10px 4px 0;
+}
+
+.mainNotification p{
+    margin-right: 50px;
+}
+
+.mainHead{
+    display: flex;
+}
+
+.swiper-slide{
+    width: auto!important;
+    margin: 0!important;
+}
+
+.swiper-container{
+    margin-right: 0!important;
+}

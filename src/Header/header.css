@@ -1,0 +1,67 @@
+.header{
+    display: flex;
+    border:1px solid #e3f2fd;
+    padding-left: 50px;
+    justify-content: center;
+    align-content: center;
+    align-items:center;
+}
+
+.icon{
+    margin-left: 20px;
+    margin-right: 16px;
+}
+
+.headerList{
+    display: flex;
+    align-items:center;
+    margin: auto;
+}
+
+ul.headerList li{
+    display: contents;
+}
+.headerList .icon{
+    margin-left: 60px;
+}
+.logo{
+    align-items: center;
+    display: flex;
+}
+
+.logoText {
+    letter-spacing: 4px;
+    font-size: x-large;
+    font-weight: 900;
+    margin: auto;
+}
+
+.headerButton{
+    background-color: #008CBA;
+    border: 1px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 0 30px 0 0;
+    display: flex;
+}
+
+.buttonText{
+    margin: 14px 0;
+}
+
+.buttonImg{
+    padding-top: 5px;
+}
+
+.headerLeft{
+    align-items: center;
+    display: flex;
+}
+
+.headerLeft .leftIcon{
+    margin: 0 0 0 20px;
+}

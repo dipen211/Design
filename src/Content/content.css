@@ -1,0 +1,132 @@
+.content{
+    padding: 0 0 80px 150px;
+}
+
+.task1{
+    display: flex;
+    background-color: #7A5548;
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #7A5548;
+}
+
+.taskIcon1{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #88665B;
+}
+
+.taskText1{
+    margin: 0 0 0 10px;
+    color: white;
+}
+
+.task2{
+    display: flex;
+    border: 1px solid #F2598B;    
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.taskIcon2{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #F2598B;
+}
+
+.taskText2{
+    margin: 0 0 0 10px;
+    color: #F2598B;
+}
+
+.task3{
+    display: flex;
+    border: 1px solid #FA982B;
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.taskIcon3{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #FA982B;
+}
+
+.taskText3{
+    margin: 0 0 0 10px;
+    color: #FA982B;
+}
+
+.task4{
+    display: flex;
+    border: 1px solid #FA982B;
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.taskIcon4{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #FA982B;
+}
+
+.taskText4{
+    margin: 0 0 0 10px;
+    color: #FA982B;
+}
+
+.task5{
+    display: flex;
+    border: 1px solid #88665B;
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.taskIcon5{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #88665B;
+}
+
+.taskText5{
+    margin: 0 0 0 10px;
+    color: #7A5548;
+}
+
+.task6{
+    display: flex;
+    border: 1px solid #2CA8F7;
+    border-radius: 5px;
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.taskIcon6{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #2CA8F7;
+}
+
+.taskText6{
+    margin: 0 0 0 10px;
+    color: #2CA8F7;
+}
+
+.taskTime{
+    font-size: 10px;
+}
+
+hr{
+    margin-left: -20px;
+}
